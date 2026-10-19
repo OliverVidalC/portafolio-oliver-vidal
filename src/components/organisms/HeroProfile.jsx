@@ -12,7 +12,7 @@ export const HeroProfile = () => {
             Desarrollador Fullstack
           </Title>
           <Title level={1} style={{ fontSize: '4rem', margin: 0, lineHeight: '1.1' }}>
-            Hola, soy <br /> Oliver Vidal 👋
+            Hola, soy <br /> Oliver Vidal
           </Title>
           <Paragraph style={{ fontSize: '1.2rem', color: '#555', marginTop: '20px', maxWidth: '500px' }}>
             Transformo ideas en experiencias web rápidas, escalables y visualmente atractivas. Apasionado por el código limpio y la creación de interfaces modernas.
